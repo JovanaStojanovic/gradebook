@@ -1,0 +1,8 @@
+[
+    {
+    "name": "create professor valid data",
+    "firstName" : "Ross",
+    "lastName" : "Geller",
+    "image" : "https://upload.wikimedia.org/wikipedia/commons/a/a9/A_sunflower.jpg"
+    }
+]

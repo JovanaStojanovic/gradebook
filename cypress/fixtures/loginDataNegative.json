@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "empty fields",
+        "errorMessage" : " invalid_credentials"
+    },
+    {
+        "name" : "email not registered",
+        "email" : "asdfghj@gmail.com",
+        "password" : "kisobran.22",
+        "errorMessage" : " invalid_credentials"
+    },
+    {
+        "name" : "email valid, password empty",
+        "email" : "mg@gmail.com",
+        "errorMessage" : " invalid_credentials"
+    },
+    {
+        "name" : "email valid, password invalid",
+        "email" : "mg@gmail.com",
+        "password" : "kisobran.22",
+        "errorMessage" : " invalid_credentials"
+    }  
+]

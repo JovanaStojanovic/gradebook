@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "register with valid email and password", 
+        "firstName" : "Petar",
+        "lastName" : "Petrovic",
+        "password" : "kisobran.22", 
+        "passwordConfirmation" : "kisobran.22",
+        "terms" : true
+    }
+]
